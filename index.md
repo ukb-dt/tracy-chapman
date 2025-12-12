@@ -101,7 +101,7 @@ While they sound like siblings, their "engines" (chord progressions) are slightl
 ### 1. The Blueprint: Tracy Chapman - "Fast Car"
 This is the progression that launched a thousand ships. It is deceptively simple but harmonically ambiguous, which is why it feels like it's constantly moving but never arriving.
 * **The Chords (Relative to Capo 2):** `Cmaj7 – G – Em – D`
-* **The Theory:** `IV – I – vi – V`
+* **[The Theory](https://ukb-dt.github.io/V7-4/):** `IV – I – vi – V`
 * **The Vibe:** It starts on the **IV chord** (Subdominant), which creates immediate tension—like a car already in motion. It resolves to the **I** (Home), drops to the minor **vi** (Sadness), and ends on the **V** (Tension), forcing you to loop back to the start. It is a perfect musical circle of "going nowhere."
 
 ### 2. The Direct Descendant: Babyface - "When Can I See You"
