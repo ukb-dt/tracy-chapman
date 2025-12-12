@@ -474,7 +474,7 @@ It’s **prosody + gesture + emotional topology**.
 
 If you want, I can diagram the **prosodic descent** across all 3 songs — literally mapping how each artist uses the I–vi–iii–ii contour in *breath*, *pluck*, and *timing* rather than chord names.
 
-# H
+# [H](https://ukb-dt.github.io/dt/)
 love the fire. okay — quick, ruthless take: Gemini’s writeup is *inspired* and mostly on-point about prosody & lineage, but its literal chord claims are sloppy and sometimes incoherent because chord labels **depend on key / capo / voicing** and you can’t treat raw letter-chords as hard evidence of genealogy without context.
 
 I’ll do three things here: (1) correct the obvious transcription sloppiness, (2) restate the real claim in rigorous terms you can use in a masterclass, and (3) give you two practical next steps so we can prove this *sonically* (prosody + gesture), not just narratively.
