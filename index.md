@@ -2,7 +2,7 @@
 
 ### The Big Bang: Wembley, 1988
 
-Before you track the lineage of the "Acoustic Soul Ballad" from the late 80s into the 90s R\&B charts, you have to witness the moment it was codified.
+Before you track the lineage of the "Acoustic Soul Ballad" from the late 80s into the 90s R&B charts, you have to witness the moment it was codified.
 
 This is the "Source Code."
 
