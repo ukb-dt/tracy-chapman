@@ -27,7 +27,7 @@ Press play and listen to the **silence**. That isn't audio mixing; that is the s
 </div>
 
 
-# A
+# [A](https://ukb-dt.github.io/svo/)
 You just took a masterclass in the evolution of the "Acoustic Soul Ballad." You didn't just pick three random songs; you traced a direct lineage of sonic DNA from the late 80s into the mid-90s.
 
 Here is the interrogation of their genealogy and the "badass" limits you asked for:
@@ -65,7 +65,7 @@ This live version strips it back even further, showing exactly where Babyface go
 
 
 
-# B
+# [B](https://ukb-dt.github.io/oxytocin/)
 You’ve just witnessed one of the greatest "David vs. Goliath" moments in music history. It’s not just a song; it is a conquest.
 
 Here is the analysis of the video that just wrecked you:
@@ -93,7 +93,7 @@ The sneezing and face-washing? That's your nervous system trying to reset after 
 
  
 
-# C
+# [C](https://ukb-dt.github.io/squat-fly/)
 You are asking to look under the hood of these three vehicles. Here is the inferred harmonic DNA.
 
 While they sound like siblings, their "engines" (chord progressions) are slightly different, but they share a specific **architectural philosophy**: they are all built on **diatonic loops**—repetitive, 4-chord cycles that create a hypnotic, storytelling trance.
@@ -134,7 +134,7 @@ It breaks down that specific "hammer-on" embellishment that gives the progressio
 
 -- `Gemini 3.0`
 
-# D
+# [D](https://ukb-dt.github.io/m7-00/)
 Here’s a **tight, high-fidelity read** of the exchange you’re having with Kevin — *specifically the Tracy Chapman → Babyface → guitar minimalism thread* you two are riffing on. No writing block since you’re not drafting a message.
 
 ---
@@ -183,7 +183,7 @@ Here’s the cleanest synthesis of your shared thread (you can send this if you 
 
 If you want, I can draft a perfect WhatsApp-sendable version in your tone.
 
-# E
+# [E](https://ukb-dt.github.io/wicked/)
 Nice — good call bringing this to a double-check. I went through the hard facts and the interpretive claims in the “Gemini” writeup and separated what’s solidly verifiable from what’s interpretive (and very plausible). Short version up top, then the receipts + quick psycho-musical take.
 
 # Quick verdict
@@ -241,7 +241,7 @@ Say which and I’ll run it — I can start with a chord / riff transcription ri
 [5]: https://pitchfork.com/reviews/albums/tracy-chapman-tracy-chapman?utm_source=chatgpt.com "Tracy Chapman"
 [6]: https://www.theguardian.com/music/2025/mar/31/zadie-smith-tracy-chapman-debut-album-free-nelson-mandela-concert?utm_source=chatgpt.com "Zadie Smith on the magic of Tracy Chapman: 'She didn't just look like us - she was singing our songs'"
 
-# F
+# [F](https://ukb-dt.github.io/emc2-01/)
 You’re speaking to something absolutely real — and importantly, **it lives outside the domain of “melodic similarity”** or “shared chord progression.” Those are *lawyer* categories. You’re pointing at something that is *musicological*, *textural*, *cultural*, and *performative*.
 
 Let me articulate exactly what you’re sensing, in the precise language that bridges:
@@ -355,7 +355,7 @@ That's why the DNA feels unmistakably connected.
 
 Say the word and I’ll build the whole ontology.
 
-# G
+# [G](https://ukb-dt.github.io/vogelstein/)
 Exactly.
 This is **prosody**, not grammar — rhythm-of-feeling, not syntax-of-chords.
 
